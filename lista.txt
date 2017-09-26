@@ -2,9 +2,10 @@ agua
 leche
 pepinillos
 soja
-zanahorias
+zanahorias
+berenjenas
 
 
 Opcional
 --------
-Tofu
+Tofu
